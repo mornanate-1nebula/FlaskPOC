@@ -1,7 +1,6 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+.vscode
+website/__pycache__
+website/database.db
 
 # C extensions
 *.so
